@@ -20,6 +20,7 @@ The Google Play Store accepts either JPEG or 24-bit PNG (no alpha) images.
 ## Aspect Ratio
 For portrait screenshots, the aspect ratio must be 2:1. For landscape screenshots, the aspect ratio must be 16:9.
 
+
 # Google Play Feature Graphics
 Feature graphics are required to publish an app and be featured on Google Play. The feature graphic is an opportunity to highlight compelling benefits of your app and pique interest in prospective users.
 
