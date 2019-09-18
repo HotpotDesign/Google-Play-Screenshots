@@ -11,10 +11,14 @@ App screenshots are crucial for engaging users on the App Store, Google Play, an
 ## Google Play Screenshot Sizes
 The Google Play Store screenshot requirements are much more flexible than those of the Apple App Store. You can define your own screenshot sizes, provided no dimension of the screenshot is less than 320 pixels or more than 3840 pixels. For example, 200x2000 is diallowed while 1000x2000 is allowed.
 
-If you vary screenshot sizes, the maximum size should not be more than twice the minimum size.
+If you vary screenshot sizes, the maximum dimension should not be more than twice the minimum dimension.
 
 ## Number of Screenshots
-The Google Play Store allows a maximum of 8 screenshots per app.
+The Google Play Store requires a minimum of 2 screenshots per app listing.
+
+The maximum is 8 screenshots per supported device type: phone, tablet (7-inch & 10-inch), Android TV, and Wear OS. If you support each of these 5 device types, you can submit a maximum of 40 screenshots. Most developers, however, will only support smartphones and will only need 8 screenshots.
+
+For games, it's recommended to supply at least 3 landscape screenshots because some sections of Google Play will only showcase games with at least 3 landscape screenshots.
 
 ## File Format
 The Google Play Store accepts either JPEG or 24-bit PNG (no alpha) images.
