@@ -9,7 +9,8 @@ The goal with these posts is to help developers understand the requirements and 
 App screenshots are crucial for engaging users on the App Store, Google Play, and the Chrome Store. With almost one million apps competing for user attention, studies show many consumers only browse for a few seconds before deciding whether to download an app.
 
 ## Google Play Screenshot Examples
-	[Click here](https://myhotpot.io/templates/samsung_s9?s=panabee_guide) to see examples of Google Play screenshots from Hotpot Design. These examples include popular Android devices like the Samsung S9 and Pixel 3.
+
+[Click here](https://myhotpot.io/templates/samsung_s9?s=panabee_guide) to see examples of Google Play screenshots from Hotpot Design. These examples include popular Android devices like the Samsung S9 and Pixel 3.
 
 ## Google Play Screenshot Sizes
 The Google Play Store screenshot requirements are much more flexible than those of the Apple App Store. You can define your own screenshot sizes, provided no dimension of the screenshot is less than 320 pixels or more than 3840 pixels. For example, 200x2000 is diallowed while 1000x2000 is allowed.
