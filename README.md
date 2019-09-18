@@ -7,7 +7,7 @@ The goal with these posts is to help developers understand the requirements and 
 
 ## Google Play Screenshot Examples
 
-[Click here](https://myhotpot.io/templates/samsung_s9?s=panabee_guide) to see examples of Google Play screenshots from Hotpot Design. These examples include popular Android devices like the Samsung S9 and Pixel 3.
+[Click here](https://myhotpot.io/templates/samsung_s9?s=github) to see examples of Google Play screenshots from Hotpot Design. These examples include popular Android devices like the Samsung S9 and Pixel 3.
 
 ## Overview
 App screenshots are crucial for engaging users on the App Store, Google Play, and the Chrome Store. With almost one million apps competing for user attention, studies show many consumers only browse for a few seconds before deciding whether to download an app.
