@@ -28,4 +28,4 @@ For games, it's recommended to supply at least 3 landscape screenshots because s
 The Google Play Store accepts either JPEG or 24-bit PNG (no alpha) images.
 
 ## Aspect Ratio
-For portrait screenshots, the aspect ratio must be 2:1. For landscape screenshots, the aspect ratio must be 16:9.
+For portrait screenshots, the aspect ratio must be less than or equal to 2:1. For landscape screenshots, the aspect ratio must be 16:9.
