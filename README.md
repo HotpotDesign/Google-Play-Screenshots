@@ -1,9 +1,11 @@
 # Google Play Screenshots
-This guide is written by https://hotpot.ai. We make it easy to create attractive [App Store screenshots](https://hotpot.ai/templates/iphone_xs_max?s=github), [Google Play screenshots](https://hotpot.ai/templates/samsung_s9?s=github), Chrome Store screenshots, [app icons](https://hotpot.ai/templates/app_store_icon), and other graphics needed for apps, websites, and extensions.
+This tutorial is written by https://hotpot.ai. We make it easy to create attractive [App Store screenshots](https://hotpot.ai/templates/iphone_xs_max?s=github), [Google Play screenshots](https://hotpot.ai/templates/samsung_s9?s=github), Chrome Store screenshots, [app icons](https://hotpot.ai/templates/app_store_icon), and other graphics needed for apps, websites, and extensions.
 
 This is a companion article to the one on [App Store Screenshots](https://github.com/HotpotDesign/App-Store-Screenshots).
 
 The goal with these posts is to help developers understand the requirements and best practices for marketing apps on the App Store and Google Play.
+
+We cross-post here on GitHub for developer convenience.
 
 ## Google Play Screenshot Examples
 
